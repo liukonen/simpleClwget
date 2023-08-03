@@ -1,3 +1,6 @@
+DEPRECATED - Windows for a while now has had Curl and wget functionality. The statements below are no longer valid
+
+
 # simpleClwget
 A simple command line based file downloader
 
